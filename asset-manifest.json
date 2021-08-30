@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wsticker.github./static/css/main.eb267c7c.chunk.css",
-    "main.js": "/wsticker.github./static/js/main.bff7d7b1.chunk.js",
-    "main.js.map": "/wsticker.github./static/js/main.bff7d7b1.chunk.js.map",
-    "runtime-main.js": "/wsticker.github./static/js/runtime-main.8d1de7bc.js",
-    "runtime-main.js.map": "/wsticker.github./static/js/runtime-main.8d1de7bc.js.map",
-    "static/js/2.58f139ce.chunk.js": "/wsticker.github./static/js/2.58f139ce.chunk.js",
-    "static/js/2.58f139ce.chunk.js.map": "/wsticker.github./static/js/2.58f139ce.chunk.js.map",
-    "static/js/3.872f91b2.chunk.js": "/wsticker.github./static/js/3.872f91b2.chunk.js",
-    "static/js/3.872f91b2.chunk.js.map": "/wsticker.github./static/js/3.872f91b2.chunk.js.map",
-    "index.html": "/wsticker.github./index.html",
-    "static/css/main.eb267c7c.chunk.css.map": "/wsticker.github./static/css/main.eb267c7c.chunk.css.map",
-    "static/js/2.58f139ce.chunk.js.LICENSE.txt": "/wsticker.github./static/js/2.58f139ce.chunk.js.LICENSE.txt"
+    "main.css": "/wsticker.github.io/static/css/main.eb267c7c.chunk.css",
+    "main.js": "/wsticker.github.io/static/js/main.bff7d7b1.chunk.js",
+    "main.js.map": "/wsticker.github.io/static/js/main.bff7d7b1.chunk.js.map",
+    "runtime-main.js": "/wsticker.github.io/static/js/runtime-main.0383e2c3.js",
+    "runtime-main.js.map": "/wsticker.github.io/static/js/runtime-main.0383e2c3.js.map",
+    "static/js/2.58f139ce.chunk.js": "/wsticker.github.io/static/js/2.58f139ce.chunk.js",
+    "static/js/2.58f139ce.chunk.js.map": "/wsticker.github.io/static/js/2.58f139ce.chunk.js.map",
+    "static/js/3.872f91b2.chunk.js": "/wsticker.github.io/static/js/3.872f91b2.chunk.js",
+    "static/js/3.872f91b2.chunk.js.map": "/wsticker.github.io/static/js/3.872f91b2.chunk.js.map",
+    "index.html": "/wsticker.github.io/index.html",
+    "static/css/main.eb267c7c.chunk.css.map": "/wsticker.github.io/static/css/main.eb267c7c.chunk.css.map",
+    "static/js/2.58f139ce.chunk.js.LICENSE.txt": "/wsticker.github.io/static/js/2.58f139ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d1de7bc.js",
+    "static/js/runtime-main.0383e2c3.js",
     "static/js/2.58f139ce.chunk.js",
     "static/css/main.eb267c7c.chunk.css",
     "static/js/main.bff7d7b1.chunk.js"
